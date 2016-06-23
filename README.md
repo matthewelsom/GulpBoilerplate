@@ -8,7 +8,9 @@ To use gulp to process, you need to install the following:
 
 Install npm locally via Terminal
 		
-	`npm install npm -g`
+```
+npm install npm -g
+```
 
 To check what version of npm you have, use `npm -v` 
 
@@ -23,7 +25,9 @@ Use `node -v` to check the version number of node you have installed.
 1. `cd` to the project directory
 2. Install gulp and the dependencies required to process your files, simply use the command 
 
-`sudo npm install`
+```
+sudo npm install
+```
 
 This command will install all the dependencies that are required in this project into a folder called `node_modules`.
 
